@@ -1,0 +1,200 @@
+.jumbotron {
+    background-image: url('assets/jumbotron.png');
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    flex-direction: column;
+}
+
+.jumbotron a {
+    background-color: #ff6f4b;
+    color: white;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+.jumbotron a:hover {
+    background-color: #ff8f6f !important;
+    ;
+}
+
+.jumbotron h1 {
+    color: #ffffffeb;
+    font-weight: 700;
+
+}
+
+.jumbotron p {
+    color: #ffffffeb;
+}
+
+.img-fluid {
+    max-height: 200px;
+    object-fit: cover;
+}
+
+#OffertaDellaSettimana {
+    color: #ff8f39;
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-weight: 700;
+    font-size: 3rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#WelcomeSummer {
+    color: #ff8f39;
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-weight: 700;
+    font-size: 3rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.btn {
+    background-color: #ff6f4b !important;
+    color: white !important;
+}
+
+.btn:hover {
+    background-color: #ff8f6f !important;
+    ;
+}
+
+.img-offerta {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+#OffertaDelGiorno {
+    color: #ff8f39;
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-weight: 700;
+    font-size: 3rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.elemento {
+    color: rgb(168, 165, 165)
+}
+
+#offertaGiorno {
+    color: #5271FF;
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-weight: 700;
+    font-size: 2rem;
+}
+
+#LastMinute {
+    color: #ff8f39;
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-weight: 700;
+    font-size: 3rem;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.carousel-indicators [data-bs-target] {
+    background-color: #b7b6b6 !important;
+    /* pallini non attivi */
+}
+
+.carousel-indicators .active {
+    background-color: #6c757d !important;
+    /* grigio scuro (Bootstrap gray) */
+    opacity: 1;
+}
+
+.carousel-indicators {
+    margin-bottom: -3px !important;
+}
+
+#Testimonial {
+    color: #ff8f39;
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-weight: 700;
+    font-size: 3rem;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+#SubscribeOurNewsletter {
+    color: #ff8f39;
+    text-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    font-weight: 700;
+    font-size: 3rem;
+    margin-top: 100px;
+    margin-bottom: 20px;
+    text-align: center
+}
+
+footer {
+    color: white!important;
+}
+.footer-custom {
+  background-color: #ff8344;
+}
+
+#logo-footer {
+    width: 300px;
+    height: auto;
+}
+
+#Iscriviti {
+    margin-bottom: 100px;
+}
+
+.footer-links {
+    color: white;
+    margin: 0 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-links a {
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+}
+
+.footer-links a:hover {
+    text-decoration: underline;
+}
+
+.helpCenter {
+    width: 400px !important;
+}
+
+.form-control {
+    margin-bottom: 20px;
+
+}
+
+.helpCenter h5 {
+    margin-top: 10px;
+}
+.btn{
+    background-color: #5271FF!important;
+    color: white !important;
+}
+.btn:hover{
+    background-color: #3b5bff!important;
+    color: white !important;
+}
